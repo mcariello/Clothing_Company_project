@@ -1,0 +1,30 @@
+svg {
+  position: absolute;
+  top: 0;  left: 0;
+  right: 0; bottom: 0;
+  margin: auto;
+  overflow: hidden;
+
+
+}
+
+
+path {
+  fill: #fff;
+  stroke:#000;
+  stroke-width: 1;
+}
+
+.fadein#i7 {
+  fill: #FE0000;
+  -webkit-transition: fill 5s;
+  -moz-transition: fill 5s;
+  transition: fill 5s;
+  
+}
+.fadein {
+  fill: #000;
+  -webkit-transition: fill 5s;
+  -moz-transition: fill 5s;
+  transition: fill 5s;
+}
